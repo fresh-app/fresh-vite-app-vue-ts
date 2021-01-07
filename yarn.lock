@@ -525,9 +525,9 @@ emojis-list@^3.0.0:
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
 esbuild@^0.8.26:
-  version "0.8.30"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.30.tgz#3d057ff9ffe6d5d30bccb0afe8cc92a2e69622d3"
-  integrity sha512-gCJQYUMO9QNrfpNOIiCnFoX41nWiPFCvURBQF+qWckyJ7gmw2xCShdKCXvS+RZcQ5krcxEOLIkzujqclePKhfw==
+  version "0.8.31"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.31.tgz#c21e7adb3ad283c951a53de7ad64a5ae2df2ed34"
+  integrity sha512-7EIU0VdUxltwivjVezX3HgeNzeIVR1snkrAo57WdUnuBMykdzin5rTrxwCDM6xQqj0RL/HjOEm3wFr2ijHKeaA==
 
 escape-string-regexp@^1.0.5:
   version "1.0.5"
