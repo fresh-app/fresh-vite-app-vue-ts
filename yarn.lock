@@ -610,9 +610,9 @@ emojis-list@^3.0.0:
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
 esbuild@^0.8.34:
-  version "0.8.34"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.34.tgz#16b4ac58f74c821d2c5a8c2f0585ca96a38ab4e6"
-  integrity sha512-tnr0V1ooakYr1aRLXQLzCn2GVG1kBTW3FWpRyC+NgrR3ntsouVpJOlTOV0BS4YLATx3/c+x3h/uBq9lWJlUAtQ==
+  version "0.8.36"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.36.tgz#f5b7c61473721c7d53ffe7c88708e25f3b6182f3"
+  integrity sha512-kcUQB61Tf8rLJ3mOwP2ruWi/iFufaQcEs4No+JA6e7W2kMOtFExOsbyeFpEF6zNacwk2RF5fYUz5jfZwgn/SJg==
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -1157,9 +1157,9 @@ uuid@^8.3.2:
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 vite@^2.0.0-beta.48:
-  version "2.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.49.tgz#a4d96107bbd72aedbe91baf0c53345d9ef559b2b"
-  integrity sha512-8bbweM0qOZLQgrPwvJpO0D82TDCfJB8QSQtRxgPOOmw3w4Ss67MIBxtJtzf0SmTnLYqS8reNrE7OknkQD3AWWw==
+  version "2.0.0-beta.50"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.50.tgz#04e66d009470ca90ab8a4a43687e899b670a0f25"
+  integrity sha512-zzMgrWJK92/aQ1rxvc+0QKeOCdOP4m2EPGwK2HKhlifQVnSdpYQzQkWLzaGh1GQAp61W+Su8cu6cWINpFgNrfQ==
   dependencies:
     esbuild "^0.8.34"
     postcss "^8.2.1"
