@@ -21,9 +21,9 @@
     to-fast-properties "^2.0.0"
 
 "@vitejs/plugin-vue@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.2.1.tgz#6de49436fc346f829a56676066428e3f011522ac"
-  integrity sha512-TG+LbEUNwfFrx1VyN+iq+PsiGd9MT16hUdJY+BnMXj3MrLAF8m3VYUspTDM3aXoh48YDmAkMjG4gWFRg3lbG5A==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.2.2.tgz#b0038fc11b9099f4cd01fcbf0ee419adda417b52"
+  integrity sha512-5BI2WFfs/Z0pAV4S/IQf1oH3bmFYlL5ATMBHgTt1Lf7hAnfpNd5oUAAs6hZPfk3QhvyUQgtk0rJBlabwNFcBJQ==
 
 "@vue/compiler-core@3.0.11":
   version "3.0.11"
@@ -300,9 +300,9 @@ inherits@2, inherits@~2.0.0, inherits@~2.0.3:
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
 is-core-module@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.2.0.tgz#97037ef3d52224d85163f5597b2b63d9afed981a"
-  integrity sha512-XRAfAdyyY5F5cOXn7hYQDqh2Xmii+DEfIcQGxK/uNwMHhIkPWO0g8msXcbzLe+MpGoR951MlqM/2iIlU4vKDdQ==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.3.0.tgz#d341652e3408bca69c4671b79a0954a3d349f887"
+  integrity sha512-xSphU2KG9867tsYdLD4RWQ1VqdFl4HTO9Thf3I/3dLEfr0dbPTWKsuCKrgqMljg4nPE+Gq0VCnzT3gr0CyBmsw==
   dependencies:
     has "^1.0.3"
 
@@ -572,9 +572,9 @@ util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
 vite@^2.1.5:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.2.1.tgz#90c481f69371f32867d86a6a623bb064b876ad3d"
-  integrity sha512-KIqK90EoJJpuqE86Y9DSkZjFNGgsyZX/4I1xENIitLRd3hgRtOlIGCJYrNnBD9/eqipz0OroAiIj9/R1JcOdFA==
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.2.2.tgz#9ad2063929ecd632f16dc9471217e26992938aad"
+  integrity sha512-Y0IMdu+YuKsisJPk6NaEwEQC7FFfLQSN97ZTE4gvrELrk8dGjTFslhNCG8wkdzMSLCzfOdpCMT8cPXAhqzkPfg==
   dependencies:
     esbuild "^0.9.3"
     postcss "^8.2.1"
