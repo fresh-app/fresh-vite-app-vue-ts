@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@babel/helper-validator-identifier@^7.14.0":
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.14.0.tgz#d26cad8a47c65286b15df1547319a5d0bcf27288"
-  integrity sha512-V3ts7zMSu5lfiwWDVWzRDGIN+lnCEUdaXgtVHJgLb1rGaA6jMrtB9EmE7L18foXJIE8Un/A/h6NJfGQp/e1J4A==
+"@babel/helper-validator-identifier@^7.14.5":
+  version "7.14.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.14.5.tgz#d0f0e277c512e0c938277faa85a3968c9a44c0e8"
+  integrity sha512-5lsetuxCLilmVGyiLEfoHBRX8UCFD+1m2x3Rj97WrW3V7H3u4RWRXA4evMjImCsin2J2YT0QaVDGf+z8ondbAg==
 
 "@babel/parser@^7.12.0", "@babel/parser@^7.13.9":
-  version "7.14.4"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.14.4.tgz#a5c560d6db6cd8e6ed342368dea8039232cbab18"
-  integrity sha512-ArliyUsWDUqEGfWcmzpGUzNfLxTdTp6WU4IuP6QFSp9gGfWS6boxFCkJSJ/L4+RG8z/FnIU3WxCk6hPL9SSWeA==
+  version "7.14.5"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.14.5.tgz#4cd2f346261061b2518873ffecdf1612cb032829"
+  integrity sha512-TM8C+xtH/9n1qzX+JNHi7AN2zHMTiPUtspO0ZdHflW8KaskkALhMmuMHb4bCmNdv9VAPzJX3/bXqkVLnAvsPfg==
 
 "@babel/types@^7.12.0", "@babel/types@^7.13.0":
-  version "7.14.4"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.14.4.tgz#bfd6980108168593b38b3eb48a24aa026b919bc0"
-  integrity sha512-lCj4aIs0xUefJFQnwwQv2Bxg7Omd6bgquZ6LGC+gGMh6/s5qDVfjuCMlDmYQ15SLsWHd9n+X3E75lKIhl5Lkiw==
+  version "7.14.5"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.14.5.tgz#3bb997ba829a2104cedb20689c4a5b8121d383ff"
+  integrity sha512-M/NzBpEL95I5Hh4dwhin5JlE7EzO5PHMAuzjxss3tiOBD46KfQvVedN/3jEPZvdRvtsK2222XfdHogNIttFgcg==
   dependencies:
-    "@babel/helper-validator-identifier" "^7.14.0"
+    "@babel/helper-validator-identifier" "^7.14.5"
     to-fast-properties "^2.0.0"
 
 "@vitejs/plugin-vue@^1.2.3":
@@ -206,9 +206,9 @@ emojis-list@^3.0.0:
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
 esbuild@^0.12.5:
-  version "0.12.7"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.7.tgz#0243ff94b241d9c815720083633731bc5b601b24"
-  integrity sha512-vxENKWBo928ErLiT/uUv8Sl2EoC5cF3cZzCTc8hDEh9ZAZ75xblJCr72NeJo74lxWaGopIePZPIWq1qDpLUHQQ==
+  version "0.12.8"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.8.tgz#ac90da77cb3bfbf49ab815200bcef7ffe1a3348f"
+  integrity sha512-sx/LwlP/SWTGsd9G4RlOPrXnIihAJ2xwBUmzoqe2nWwbXORMQWtAGNJNYLBJJqa3e9PWvVzxdrtyFZJcr7D87g==
 
 estree-walker@^2.0.1:
   version "2.0.2"
@@ -455,9 +455,9 @@ postcss-value-parser@^4.1.0:
   integrity sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
 
 postcss@^8.1.10, postcss@^8.3.0:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.0.tgz#b1a713f6172ca427e3f05ef1303de8b65683325f"
-  integrity sha512-+ogXpdAjWGa+fdYY5BQ96V/6tAo+TdSSIMP5huJBIygdWwKtVoB5JWZ7yUd4xZ8r+8Kvvx4nyg/PQ071H4UtcQ==
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.1.tgz#71f380151c227f83b898294a46481f689f86b70a"
+  integrity sha512-9qH0MGjsSm+fjxOi3GnwViL1otfi7qkj+l/WX5gcRGmZNGsIcqc+A5fBkE6PUobEQK4APqYVaES+B3Uti98TCw==
   dependencies:
     colorette "^1.2.2"
     nanoid "^3.1.23"
