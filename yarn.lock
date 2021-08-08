@@ -100,14 +100,14 @@
     estree-walker "^2.0.1"
     source-map "^0.6.1"
 
-"@vue/compiler-core@3.2.0-beta.7":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/compiler-core/-/compiler-core-3.2.0-beta.7.tgz#bb551e99e207c3e694bd6b283cb5a2a2aae7f521"
-  integrity sha512-JoL8pskBqYDcw3Yf6Bm/TUz4ZIRIkT7VzMzk0chBwpxHima9roZZA2bn5M/JznZryh9JNfrpm1DdDKmsdrRVSQ==
+"@vue/compiler-core@3.2.0-beta.8":
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/compiler-core/-/compiler-core-3.2.0-beta.8.tgz#0f16d457e6f7169496fe67c80660a6e3d93bd5e6"
+  integrity sha512-nVJk+DMl0tY9e4FLKcxyWQEtnLwHhW9K3rq15oqNhnRGP/mk2zN1y/BDAC7hQv1MxU3RX4X8fUOw0EbzVl/vDA==
   dependencies:
     "@babel/parser" "^7.12.0"
     "@babel/types" "^7.12.0"
-    "@vue/shared" "3.2.0-beta.7"
+    "@vue/shared" "3.2.0-beta.8"
     estree-walker "^2.0.1"
     source-map "^0.6.1"
 
@@ -119,13 +119,13 @@
     "@vue/compiler-core" "3.1.5"
     "@vue/shared" "3.1.5"
 
-"@vue/compiler-dom@3.2.0-beta.7", "@vue/compiler-dom@^3.2.0-beta.5":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/compiler-dom/-/compiler-dom-3.2.0-beta.7.tgz#2099797206b5f773e949801dd1d6a3bd73d174ce"
-  integrity sha512-51gwn3EaaNs1XI6D3aoPDuDmS1SxBb/HVlVZwlEYDoje6UeF3lx9M6pXOM6CoMLiFNat4CkwqQZu6SghlY0PYw==
+"@vue/compiler-dom@3.2.0-beta.8", "@vue/compiler-dom@^3.2.0-beta.5":
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/compiler-dom/-/compiler-dom-3.2.0-beta.8.tgz#998dc20a7aff0b34e197c1d7b5b54d5a7ba00fdb"
+  integrity sha512-A2RwLyUkN0jsC0fx/VOR1POzN64ZAzSFtnkhhuSs81K7MsIW0OgYmmFutqLJiycTSBXEs+yZ6J9cZPBhcfPxeg==
   dependencies:
-    "@vue/compiler-core" "3.2.0-beta.7"
-    "@vue/shared" "3.2.0-beta.7"
+    "@vue/compiler-core" "3.2.0-beta.8"
+    "@vue/shared" "3.2.0-beta.8"
 
 "@vue/compiler-sfc@^3.0.5":
   version "3.1.5"
@@ -151,17 +151,17 @@
     source-map "^0.6.1"
 
 "@vue/compiler-sfc@^3.2.0-beta.5":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.2.0-beta.7.tgz#6f04a2b37e358afcd7791b68efaeffd0bf198ddd"
-  integrity sha512-NsZgrjQJtZhT0X7IeqnkI2F1FZtoI+4rssx03BlQh1jMkuydrkWPeiOuHbmPmtv4V0kbfwG68+PmgJfimdTbPQ==
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.2.0-beta.8.tgz#f237a26f3219a5af7b13c9ee5a2ff7853b8a2248"
+  integrity sha512-5kfSiJUtpvBmTazUFDiGGvLTI5lDuJJY/R7jRRE9uBHcxHs7iSveToMYldwQ7tiVB+L1QFItXBLp4o/0uPlmcQ==
   dependencies:
     "@babel/parser" "^7.13.9"
     "@babel/types" "^7.13.0"
     "@types/estree" "^0.0.48"
-    "@vue/compiler-core" "3.2.0-beta.7"
-    "@vue/compiler-dom" "3.2.0-beta.7"
-    "@vue/compiler-ssr" "3.2.0-beta.7"
-    "@vue/shared" "3.2.0-beta.7"
+    "@vue/compiler-core" "3.2.0-beta.8"
+    "@vue/compiler-dom" "3.2.0-beta.8"
+    "@vue/compiler-ssr" "3.2.0-beta.8"
+    "@vue/shared" "3.2.0-beta.8"
     consolidate "^0.16.0"
     estree-walker "^2.0.1"
     hash-sum "^2.0.0"
@@ -181,13 +181,13 @@
     "@vue/compiler-dom" "3.1.5"
     "@vue/shared" "3.1.5"
 
-"@vue/compiler-ssr@3.2.0-beta.7":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/compiler-ssr/-/compiler-ssr-3.2.0-beta.7.tgz#1a46abf8bcd3196c2c9ad149063c00c4619f1e24"
-  integrity sha512-85sT42ErbQ8DmR2w+Joqh5bskqtVj7Y21iwi2Hu1Ccr76vEiD4/7PB8fuhbkDmilOAMMcvh90KyvXpYJ84THCw==
+"@vue/compiler-ssr@3.2.0-beta.8":
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/compiler-ssr/-/compiler-ssr-3.2.0-beta.8.tgz#7d88c0e589e217f75724bbedb1a93de824a02bf2"
+  integrity sha512-BdQfgIQ3CTO6tlCJ+KWn5vkNBG06voPs56UQ6TKWj2LmP/wWuxkaGZU2YlszvOERY1oJWQxs54SdGFK8hq70Ww==
   dependencies:
-    "@vue/compiler-dom" "3.2.0-beta.7"
-    "@vue/shared" "3.2.0-beta.7"
+    "@vue/compiler-dom" "3.2.0-beta.8"
+    "@vue/shared" "3.2.0-beta.8"
 
 "@vue/reactivity@3.1.5":
   version "3.1.5"
@@ -197,11 +197,11 @@
     "@vue/shared" "3.1.5"
 
 "@vue/reactivity@^3.2.0-beta.5":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.2.0-beta.7.tgz#06c916315f3b74ae640040ddb75972da29467f84"
-  integrity sha512-qS6/g+CaPRDNssjk6sLn2od6B/CGKoG0UnbCRE+TrgKKf7QGZGv5RBjZrqqaJvgBx1gjPjRi7DVWO/YWvdyNCA==
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.2.0-beta.8.tgz#5300cfe65d36b77a1f1016ba13bc538471dd1b3e"
+  integrity sha512-LqLvqdLvd+0HeANDWiDVDe5qka9FHjFsVabwJwamqttsKOqDiXehhFST3gPAuUpcGS5UKzNUt040YhdeO7D8YA==
   dependencies:
-    "@vue/shared" "3.2.0-beta.7"
+    "@vue/shared" "3.2.0-beta.8"
 
 "@vue/runtime-core@3.1.5":
   version "3.1.5"
@@ -225,10 +225,10 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.1.5.tgz#74ee3aad995d0a3996a6bb9533d4d280514ede03"
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
-"@vue/shared@3.2.0-beta.7":
-  version "3.2.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.0-beta.7.tgz#0bce776271f329e6582fcda00d61d4bcf1c60b52"
-  integrity sha512-rXkGVA+HeVsnB/pba3uZK9KJCwNetCupqHX5g+aXhZPucHTC0YCPoZFYc4qUE8wa8atXTBWP+1VnztbXBPGRuA==
+"@vue/shared@3.2.0-beta.8":
+  version "3.2.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.0-beta.8.tgz#e3f6cc9a56b10c46395e20f39219da497e06afc7"
+  integrity sha512-+9azBIVNUvrUDyvUk/0/yp0FZ4RjAWfZf0CSrpgt+y3Pn4tj4qtUChvEgZ4pO2F6vQ3wGliUjh9YydVlYGgmCg==
 
 "@vue/shared@^3.2.0-beta.5":
   version "3.2.0-beta.5"
@@ -366,9 +366,9 @@ entities@^2.0.0:
   integrity sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==
 
 esbuild@^0.12.8:
-  version "0.12.18"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.18.tgz#e5db16372188c2b4d395f7f55fdade27f6a119fa"
-  integrity sha512-arWhBQSy+oiBAp8VRRCFvAU+3jyf0gGacABLO3haMHboXCDjzq4WUqyQklst2XRuFS8MXgap+9uvODqj9Iygpg==
+  version "0.12.19"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.12.19.tgz#ab849766705a5093df5acd8ec2f6ba2159a38a6c"
+  integrity sha512-5NuT1G6THW7l3fsSCDkcPepn24R0XtyPjKoqKHD8LfhqMXzCdz0mrS9HgO6hIhzVT7zt0T+JGbzCqF5AH8hS9w==
 
 estree-walker@^2.0.1:
   version "2.0.2"
