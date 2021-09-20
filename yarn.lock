@@ -45,9 +45,9 @@
   integrity sha512-LfZwXoGUDo0C3me81HXgkBg5CTQYb6xzEl+fNmbO4JdRiSKQ8A0GD1OBBvKAIsbCUgoyAty7m99GqqMQe784ew==
 
 "@vitejs/plugin-vue@^1.6.1":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.8.0.tgz#412b0f280eedad4fad982a0b3f1ae7b4bd128aee"
-  integrity sha512-vwR5QkJ9wQiOGTHtYHJuwCaWtcyBp1P/pSxGg5j5+OeWawQso7yLktllEPl+zHFSSDE5Xibe41LjVG4lIHizmA==
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.8.1.tgz#6cc2a8dfd04201e3c868c239091aaa89aa75f880"
+  integrity sha512-gktQGZ7qfaDdVJhT86fWSkyhP+bdoA81f5S2TQOL5Sbe5q7B36XfLGq8Q0BpHoqhPSflAMe6WwM1IecP1sChRw==
 
 "@volar/code-gen@^0.27.22":
   version "0.27.22"
@@ -893,9 +893,9 @@ vscode-uri@^3.0.2:
   integrity sha512-jkjy6pjU1fxUvI51P+gCsxg1u2n8LSt0W6KrCNQceaziKzff74GoWmjVG46KieVzybO1sttPQmYfrwSHey7GUA==
 
 vscode-vue-languageservice@^0.27.0:
-  version "0.27.22"
-  resolved "https://registry.yarnpkg.com/vscode-vue-languageservice/-/vscode-vue-languageservice-0.27.22.tgz#a618fde3ac7b9d81bb3f1ed04d23a38779eb67ed"
-  integrity sha512-XM7eaa22Q64TNUPRHZ6g2DNvfU1UW0iz4lytbPiQezqslF0Ye2/xnH6u+kYRPo7NP5fpprj/YBeEvLEUmTEMEg==
+  version "0.27.23"
+  resolved "https://registry.yarnpkg.com/vscode-vue-languageservice/-/vscode-vue-languageservice-0.27.23.tgz#65075ecac50e2ecd5d82c6a1c6c483374174f867"
+  integrity sha512-ejtWeNqBEW2eehuMLeEMzQmSFZYTZDoZYiBiXmgsEguoAaMCM4aq/IEqFGKvYtQ/LjRX/D7WvJOE7VV8ltaEmA==
   dependencies:
     "@volar/code-gen" "^0.27.22"
     "@volar/html2pug" "^0.27.13"
