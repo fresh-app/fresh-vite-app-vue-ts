@@ -39,7 +39,7 @@
   resolved "https://registry.yarnpkg.com/@emmetio/scanner/-/scanner-1.0.0.tgz#065b2af6233fe7474d44823e3deb89724af42b5f"
   integrity sha512-8HqW8EVqjnCmWXVpqAOZf+EGESdkR27odcMMMGefgKXtar00SoYNSryGv//TELI4T3QFsECo78p+0lmalk/CFA==
 
-"@vitejs/plugin-vue@^1.9.2":
+"@vitejs/plugin-vue@^1.9.3":
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.9.3.tgz#93d61893ce6c723d0209af0483ec8b91a2cd811f"
   integrity sha512-yW6H/q+4Mc2PcVjSOelcsMrg/k15DnMUz8jyCFsI04emc3aLwo4AoofUfGnjHUkgirrDxSJLVqQVGhonQ3yykA==
@@ -87,9 +87,9 @@
     vscode-languageserver "^8.0.0-next.2"
 
 "@vscode/emmet-helper@^2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@vscode/emmet-helper/-/emmet-helper-2.7.0.tgz#3db485f6a650196ff8bbd38ba1b9e468ec8d22f8"
-  integrity sha512-LL7MoKNLUQASacQROO7hBdx5IAxsEnA0UdJFd9xXyf3sBQgz8NE3QEfo3IezE7uin8W2fkG2+EXMst3oqK6+KQ==
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@vscode/emmet-helper/-/emmet-helper-2.8.0.tgz#464231d579a06617de8f802d1d9e70f18c68a202"
+  integrity sha512-T0tjk9hxzkYTn8VUdAyZTfeLNW8jqKPNhCSMXUd4lZLdcNaADVNYK4TSjt4r+YWm6qWyfMbis4Xc2I77x+s9OA==
   dependencies:
     emmet "^2.3.0"
     jsonc-parser "^2.3.0"
@@ -707,10 +707,10 @@ upath@^2.0.1:
   resolved "https://registry.yarnpkg.com/upath/-/upath-2.0.1.tgz#50c73dea68d6f6b990f51d279ce6081665d61a8b"
   integrity sha512-1uEe95xksV1O0CYKXo8vQvN1JEbtJp7lb7C5U9HMsIp6IVwntkH/oNUzyVNQSd4S1sYk2FpSSW44FqMc8qee5w==
 
-vite@^2.6.0:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.3.tgz#5bbc1d3fcff6bfee9c5e3c0d0a689b18e5974b38"
-  integrity sha512-mLiN4WR8zpmn04khhBf7YvC3FHrGhZt9S6xm53uDWgtYcUVNtV5LXHLI2Sc4SpL8jd/dsSIHzRxj7JTIu+MTDQ==
+vite@^2.6.4:
+  version "2.6.5"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.5.tgz#c4d25972e2f7371e682da86828722ddf5126f3d1"
+  integrity sha512-vavXMChDUb4Oh4YunrK9BrH5Ox74cu0eOp0VuyI/iqFz1FqbWD72So2c9I87lLL2n0+6tFPV5ijow60KrtxuZg==
   dependencies:
     esbuild "^0.13.2"
     postcss "^8.3.8"
