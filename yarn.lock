@@ -766,10 +766,10 @@ vscode-jsonrpc@8.0.0-next.4, vscode-jsonrpc@^8.0.0-next.2:
   resolved "https://registry.yarnpkg.com/vscode-jsonrpc/-/vscode-jsonrpc-8.0.0-next.4.tgz#c0da5e3536c0862e8189b1678a3a7c4900e6ecbd"
   integrity sha512-i+wvza5Wd0YV/t9qhnS8I+dJdhJ1fHIhRW4f262rXXM9Mgts5VZhYrRZufGcai4y99RlbZvwaZhplQ6diRXkaA==
 
-vscode-languageserver-protocol@3.17.0-next.10:
-  version "3.17.0-next.10"
-  resolved "https://registry.yarnpkg.com/vscode-languageserver-protocol/-/vscode-languageserver-protocol-3.17.0-next.10.tgz#e59bb8dee9609c522269d6b2ba359a57650bc2f4"
-  integrity sha512-D3Xp2oxumDKMMhrONsgC5Sn+8we9W8QI9V2dos18FzObr2amzOrW/ncLax14xja4n4cX/6LHFOHRDapxE0mShw==
+vscode-languageserver-protocol@3.17.0-next.11:
+  version "3.17.0-next.11"
+  resolved "https://registry.yarnpkg.com/vscode-languageserver-protocol/-/vscode-languageserver-protocol-3.17.0-next.11.tgz#0f2b2bc0d28026422340e4571373e018598e2e16"
+  integrity sha512-9FqHT7XvM6tWFsnLvRfuQA7Zh7wZZYAwA9dK85lYthA8M1aXpXEP9drXVvO/Fe03MUeJpKVf2e4/NvDaFUnttg==
   dependencies:
     vscode-jsonrpc "8.0.0-next.4"
     vscode-languageserver-types "3.17.0-next.5"
@@ -790,11 +790,11 @@ vscode-languageserver-types@^3.15.1, vscode-languageserver-types@^3.16.0:
   integrity sha512-k8luDIWJWyenLc5ToFQQMaSrqCHiLwyKPHKPQZ5zz21vM+vIVUSvsRpcbiECH4WR88K2XZqc4ScRcZ7nk/jbeA==
 
 vscode-languageserver@^8.0.0-next.2:
-  version "8.0.0-next.4"
-  resolved "https://registry.yarnpkg.com/vscode-languageserver/-/vscode-languageserver-8.0.0-next.4.tgz#fb601cc6bc038323ccddd37f5aa25d70c162798d"
-  integrity sha512-akO+BZ7eS7B1DIS5JHsTrI4eQDwrNTrXEvaRwgylQBMPR17YI/qkyJr3GZB68R2gjmoA/TdkP5Q4u4aeTGxJ2A==
+  version "8.0.0-next.5"
+  resolved "https://registry.yarnpkg.com/vscode-languageserver/-/vscode-languageserver-8.0.0-next.5.tgz#99f7f25dd658a1f000219f62c29ae557858f850c"
+  integrity sha512-3E2W0eWtGKb6QAJqspOnD0thrBRRo8IGUMV5jpDNMcMKvmtkcxMwsBh0VxdvuWaZ51PiNyR4L+B+GUvkYsyFEg==
   dependencies:
-    vscode-languageserver-protocol "3.17.0-next.10"
+    vscode-languageserver-protocol "3.17.0-next.11"
 
 vscode-nls@^5.0.0:
   version "5.0.0"
