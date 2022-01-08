@@ -670,9 +670,9 @@ pug@^3.0.2:
     pug-strip-comments "^2.0.0"
 
 request-light@^0.5.4:
-  version "0.5.6"
-  resolved "https://registry.yarnpkg.com/request-light/-/request-light-0.5.6.tgz#d36eb9b1e574fed1d261414722261a1148db3c2e"
-  integrity sha512-mIfRkYujBF6qQQi+uJGHFzYD2P7WwfIMyJ3/DcTtOFB3iypwIVOXmsr3RMnFwTJRVcYLLZdjkIx43E8Zn2hRng==
+  version "0.5.7"
+  resolved "https://registry.yarnpkg.com/request-light/-/request-light-0.5.7.tgz#1c448c22153b55d2cd278eb414df24a5ad6e6d5e"
+  integrity sha512-i/wKzvcx7Er8tZnvqSxWuNO5ZGggu2UgZAqj/RyZ0si7lBTXL7kZiI/dWxzxnQjaY7s5HEy1qK21Do4Ncr6cVw==
 
 resolve@^1.15.1, resolve@^1.20.0:
   version "1.21.0"
