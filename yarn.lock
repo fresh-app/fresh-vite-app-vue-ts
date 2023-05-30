@@ -3,9 +3,9 @@
 
 
 "@babel/parser@^7.20.15", "@babel/parser@^7.21.3":
-  version "7.22.3"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.22.3.tgz#838ae31893373222cd9062568e2192c670037e00"
-  integrity sha512-vrukxyW/ep8UD1UDzOYpTKQ6abgjFoeG6L+4ar9+c5TN9QnlqiOi6QK7LSR5ewm/ERyGkT/Ai6VboNrxhbr9Uw==
+  version "7.22.4"
+  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.22.4.tgz#a770e98fd785c231af9d93f6459d36770993fb32"
+  integrity sha512-VLLsx06XkEYqBtE5YGPwfSGwfrjnyPP5oiGty3S8pQLFDFLaS8VwWSIxkTXpcvr5zeYLE6+MBNl2npl/YnfofA==
 
 "@esbuild/android-arm64@0.17.19":
   version "0.17.19"
@@ -395,7 +395,7 @@ typescript@^5.0.2:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.4.tgz#b217fd20119bd61a94d4011274e0ab369058da3b"
   integrity sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==
 
-vite@^4.3.2:
+vite@^4.3.9:
   version "4.3.9"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.9.tgz#db896200c0b1aa13b37cdc35c9e99ee2fdd5f96d"
   integrity sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==
