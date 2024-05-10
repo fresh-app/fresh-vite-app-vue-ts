@@ -387,8 +387,8 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
-  semver@7.6.1:
-    resolution: {integrity: sha512-f/vbBsu+fOiYt+lmwZV0rVwJScl46HppnOA1ZvIuBWKOTlllpyJ3bfVax76/OrhCH38dyxoDIA8K7uB963IYgA==}
+  semver@7.6.2:
+    resolution: {integrity: sha512-FNAIBWCx9qcRhoHcgcJ0gvU7SN1lYU2ZXuSfl04bSC5OpvDHFyJCjdNHomPXxjQlCBU67YW64PzY7/VIEH7F2w==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -761,7 +761,7 @@ snapshots:
       '@rollup/rollup-win32-x64-msvc': 4.17.2
       fsevents: 2.3.3
 
-  semver@7.6.1: {}
+  semver@7.6.2: {}
 
   source-map-js@1.2.0: {}
 
@@ -786,7 +786,7 @@ snapshots:
     dependencies:
       '@volar/typescript': 2.2.1
       '@vue/language-core': 2.0.16(typescript@5.4.5)
-      semver: 7.6.1
+      semver: 7.6.2
       typescript: 5.4.5
 
   vue@3.4.27(typescript@5.4.5):
