@@ -14,13 +14,13 @@ importers:
     devDependencies:
       '@vitejs/plugin-vue':
         specifier: ^5.0.4
-        version: 5.0.4(vite@5.2.11)(vue@3.4.27(typescript@5.4.5))
+        version: 5.0.4(vite@5.2.12)(vue@3.4.27(typescript@5.4.5))
       typescript:
         specifier: ^5.2.2
         version: 5.4.5
       vite:
         specifier: ^5.2.0
-        version: 5.2.11
+        version: 5.2.12
       vue-tsc:
         specifier: ^2.0.6
         version: 2.0.19(typescript@5.4.5)
@@ -405,8 +405,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  vite@5.2.11:
-    resolution: {integrity: sha512-HndV31LWW05i1BLPMUCE1B9E9GFbOu1MbenhS58FuK6owSO5qHm7GiCotrNY1YE5rMeQSFBGmT5ZaLEjFizgiQ==}
+  vite@5.2.12:
+    resolution: {integrity: sha512-/gC8GxzxMK5ntBwb48pR32GGhENnjtY30G4A0jemunsBkiEZFw60s8InGpN8gkhHEkjnRK1aSAxeQgwvFhUHAA==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
     peerDependencies:
@@ -587,9 +587,9 @@ snapshots:
 
   '@types/estree@1.0.5': {}
 
-  '@vitejs/plugin-vue@5.0.4(vite@5.2.11)(vue@3.4.27(typescript@5.4.5))':
+  '@vitejs/plugin-vue@5.0.4(vite@5.2.12)(vue@3.4.27(typescript@5.4.5))':
     dependencies:
-      vite: 5.2.11
+      vite: 5.2.12
       vue: 3.4.27(typescript@5.4.5)
 
   '@volar/language-core@2.2.5':
@@ -769,7 +769,7 @@ snapshots:
 
   typescript@5.4.5: {}
 
-  vite@5.2.11:
+  vite@5.2.12:
     dependencies:
       esbuild: 0.20.2
       postcss: 8.4.38
