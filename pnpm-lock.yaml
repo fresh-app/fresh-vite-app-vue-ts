@@ -365,8 +365,8 @@ packages:
       vue:
         optional: true
 
-  alien-signals@1.0.4:
-    resolution: {integrity: sha512-DJqqQD3XcsaQcQ1s+iE2jDUZmmQpXwHiR6fCAim/w87luaW+vmLY8fMlrdkmRwzaFXhkxf3rqPCR59tKVv1MDw==}
+  alien-signals@1.0.5:
+    resolution: {integrity: sha512-fEonez3dgeA5DFpKZoM0zEcPx+hoPHxJOPT9wUx0YKH9I+MbA1ZUimEjbypEL0wcMDPDxNLSXO07jOU9iufBKw==}
 
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
@@ -706,7 +706,7 @@ snapshots:
       '@vue/compiler-dom': 3.5.13
       '@vue/compiler-vue2': 2.7.16
       '@vue/shared': 3.5.13
-      alien-signals: 1.0.4
+      alien-signals: 1.0.5
       minimatch: 9.0.5
       muggle-string: 0.4.1
       path-browserify: 1.0.1
@@ -742,7 +742,7 @@ snapshots:
       typescript: 5.7.3
       vue: 3.5.13(typescript@5.7.3)
 
-  alien-signals@1.0.4: {}
+  alien-signals@1.0.5: {}
 
   balanced-match@1.0.2: {}
 
