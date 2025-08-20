@@ -14,7 +14,7 @@ importers:
     devDependencies:
       '@vitejs/plugin-vue':
         specifier: ^6.0.1
-        version: 6.0.1(vite@7.1.2)(vue@3.5.18(typescript@5.8.3))
+        version: 6.0.1(vite@7.1.3)(vue@3.5.18(typescript@5.8.3))
       '@vue/tsconfig':
         specifier: ^0.7.0
         version: 0.7.0(typescript@5.8.3)(vue@3.5.18(typescript@5.8.3))
@@ -23,7 +23,7 @@ importers:
         version: 5.8.3
       vite:
         specifier: ^7.1.2
-        version: 7.1.2
+        version: 7.1.3
       vue-tsc:
         specifier: ^3.0.5
         version: 3.0.5(typescript@5.8.3)
@@ -379,8 +379,8 @@ packages:
       vue:
         optional: true
 
-  alien-signals@2.0.6:
-    resolution: {integrity: sha512-P3TxJSe31bUHBiblg59oU1PpaWPtmxF9GhJ/cB7OkgJ0qN/ifFSKUI25/v8ZhsT+lIG6ac8DpTOplXxORX6F3Q==}
+  alien-signals@2.0.7:
+    resolution: {integrity: sha512-wE7y3jmYeb0+h6mr5BOovuqhFv22O/MV9j5p0ndJsa7z1zJNPGQ4ph5pQk/kTTCWRC3xsA4SmtwmkzQO+7NCNg==}
 
   csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
@@ -461,8 +461,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  vite@7.1.2:
-    resolution: {integrity: sha512-J0SQBPlQiEXAF7tajiH+rUooJPo0l8KQgyg4/aMunNtrOa7bwuZJsJbDWzeljqQpgftxuq5yNJxQ91O9ts29UQ==}
+  vite@7.1.3:
+    resolution: {integrity: sha512-OOUi5zjkDxYrKhTV3V7iKsoS37VUM7v40+HuwEmcrsf11Cdx9y3DIr2Px6liIcZFwt3XSRpQvFpL3WVy7ApkGw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -677,10 +677,10 @@ snapshots:
 
   '@types/estree@1.0.8': {}
 
-  '@vitejs/plugin-vue@6.0.1(vite@7.1.2)(vue@3.5.18(typescript@5.8.3))':
+  '@vitejs/plugin-vue@6.0.1(vite@7.1.3)(vue@3.5.18(typescript@5.8.3))':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-beta.29
-      vite: 7.1.2
+      vite: 7.1.3
       vue: 3.5.18(typescript@5.8.3)
 
   '@volar/language-core@2.4.22':
@@ -736,7 +736,7 @@ snapshots:
       '@vue/compiler-dom': 3.5.18
       '@vue/compiler-vue2': 2.7.16
       '@vue/shared': 3.5.18
-      alien-signals: 2.0.6
+      alien-signals: 2.0.7
       muggle-string: 0.4.1
       path-browserify: 1.0.1
       picomatch: 4.0.3
@@ -772,7 +772,7 @@ snapshots:
       typescript: 5.8.3
       vue: 3.5.18(typescript@5.8.3)
 
-  alien-signals@2.0.6: {}
+  alien-signals@2.0.7: {}
 
   csstype@3.1.3: {}
 
@@ -875,7 +875,7 @@ snapshots:
 
   typescript@5.8.3: {}
 
-  vite@7.1.2:
+  vite@7.1.3:
     dependencies:
       esbuild: 0.25.9
       fdir: 6.5.0(picomatch@4.0.3)
