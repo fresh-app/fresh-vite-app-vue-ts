@@ -14,7 +14,7 @@ importers:
     devDependencies:
       '@vitejs/plugin-vue':
         specifier: ^6.0.1
-        version: 6.0.1(vite@7.1.3)(vue@3.5.20(typescript@5.8.3))
+        version: 6.0.1(vite@7.1.4)(vue@3.5.20(typescript@5.8.3))
       '@vue/tsconfig':
         specifier: ^0.7.0
         version: 0.7.0(typescript@5.8.3)(vue@3.5.20(typescript@5.8.3))
@@ -23,7 +23,7 @@ importers:
         version: 5.8.3
       vite:
         specifier: ^7.1.2
-        version: 7.1.3
+        version: 7.1.4
       vue-tsc:
         specifier: ^3.0.5
         version: 3.0.6(typescript@5.8.3)
@@ -466,8 +466,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  vite@7.1.3:
-    resolution: {integrity: sha512-OOUi5zjkDxYrKhTV3V7iKsoS37VUM7v40+HuwEmcrsf11Cdx9y3DIr2Px6liIcZFwt3XSRpQvFpL3WVy7ApkGw==}
+  vite@7.1.4:
+    resolution: {integrity: sha512-X5QFK4SGynAeeIt+A7ZWnApdUyHYm+pzv/8/A57LqSGcI88U6R6ipOs3uCesdc6yl7nl+zNO0t8LmqAdXcQihw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -685,10 +685,10 @@ snapshots:
 
   '@types/estree@1.0.8': {}
 
-  '@vitejs/plugin-vue@6.0.1(vite@7.1.3)(vue@3.5.20(typescript@5.8.3))':
+  '@vitejs/plugin-vue@6.0.1(vite@7.1.4)(vue@3.5.20(typescript@5.8.3))':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-beta.29
-      vite: 7.1.3
+      vite: 7.1.4
       vue: 3.5.20(typescript@5.8.3)
 
   '@volar/language-core@2.4.23':
@@ -884,7 +884,7 @@ snapshots:
 
   typescript@5.8.3: {}
 
-  vite@7.1.3:
+  vite@7.1.4:
     dependencies:
       esbuild: 0.25.9
       fdir: 6.5.0(picomatch@4.0.3)
